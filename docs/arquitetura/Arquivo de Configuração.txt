@@ -1,0 +1,2 @@
+Para decidir qual linguagem de programação será utilizada no software que será desenvolvido, primeiramente devemos identificar a necessidade do nosso cliente. 
+Após a identificação da necessidade, veremos qual linguagem melhor se encaixa e a partir disso poderemos efetuar o levantamento de requisitos para que assim o software tenha seu desenvolvimento iniciado.
